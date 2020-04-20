@@ -1,0 +1,64 @@
+@font-face {
+font-family: "mv waheed";
+src: url("https://dl.dropboxusercontent.com/s/z0u7r5sz6ofh6so/MV_Waheed%283%29.otf") format('opentype');
+}
+@font-face {
+font-family: "Mv Faseyha";
+src: url("https://dl.dropboxusercontent.com/s/nt4yxgy3xwl40es/Faruma.otf") format('opentype');
+}
+*{
+   font-family:"Mv Faseyha";
+}
+body {
+  font-family:"Mv Faseyha";
+}
+
+#title {
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 80px;
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 50px;
+  font-family:"Mv Faseyha";
+  background-color: #A55EC7;
+  color: white;
+}
+
+#rules {
+  margin-top: 50px;
+  margin-bottom: 50px;
+ font-family:"Mv Faseyha";
+  
+}
+
+form {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.scrambled, input, button {
+  font-family:"Mv Faseyha";
+  font-size: 2em;
+}
+
+#wordGames {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 20%;
+}
+
+#checkingText {
+  text-align:center;
+  margin-top: 20px;
+  font-family:"Mv Faseyha";
+  font-size: 18px
+}
+
+#caps {
+  font-size: 15px;
+}

@@ -1,0 +1,28 @@
+@font-face {
+font-family: "mv waheed";
+src: url("https://dl.dropboxusercontent.com/s/z0u7r5sz6ofh6so/MV_Waheed%283%29.otf") format('opentype');
+}
+@font-face {
+font-family: "Mv Faseyha";
+src: url("https://dl.dropboxusercontent.com/s/nt4yxgy3xwl40es/Faruma.otf") format('opentype');
+}
+*{
+   font-family:"Mv Faseyha";
+}
+body {
+	font-family:"Mv Faseyha";
+  background-color: ivory;
+  text-align: center;
+}
+
+#canvas {
+  border: 1px solid red;
+}
+#menu {
+  margin:20px auto 0;
+  line-height:40px;
+  background:rgba(0,0,0,0.1);
+  border-radius:5px;
+  cursor:pointer;
+  display:none;
+}
